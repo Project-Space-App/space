@@ -1,6 +1,6 @@
 # SPACE
 
-Information coming soon.
+Space is a Open-Source Social-Media-Platform!
 
 ## Installation
 
